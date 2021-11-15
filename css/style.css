@@ -1,0 +1,31 @@
+
+.azul
+{
+    min-height: 80px;
+      
+}
+.vermelho
+{
+    min-height: 80px;
+    
+}
+.preto
+{
+    min-height: 400px;  
+   
+}
+.amarelo
+{
+    min-height: 400px;
+   
+}
+.rodape
+{
+    min-height: 60px;
+    
+}
+div
+{
+    border: 1px;
+    min-height: 100px
+}
